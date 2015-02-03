@@ -8,7 +8,6 @@ import java.util.List;
 import java.util.concurrent.*;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.assertj.core.api.Assertions.failBecauseExceptionWasNotThrown;
 
 public class InstrumentedExecutorServiceTest {
     private ExecutorService executor;

@@ -48,7 +48,7 @@ copyright = u'2010-2014, Coda Hale, Yammer Inc.'
 # built documents.
 #
 # The short X.Y version.
-version = '4.0'
+version = '3.1'
 # The full version, including alpha/beta/rc tags.
 release = '4.0.0'
 
